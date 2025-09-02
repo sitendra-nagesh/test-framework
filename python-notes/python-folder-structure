@@ -1,0 +1,6 @@
+python package structure
+Generally we have four folders. Bin where all the binary files are placed. Then we have library folder either or lib and lib64 where our modules live. Then we have include folder for c compilation headers. Then we have share folder for documentation and data.
+bin -> python interpreter binary, pip and entry point for other program. 
+lib -> where we have standard library and in site-packages, the library installed by us
+include -> headers for c compilation
+share -> documentation
