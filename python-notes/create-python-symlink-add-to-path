@@ -1,0 +1,4 @@
+Steps to create a symlink and add it to path variable.
+ln -sf python3 python
+ln -sf pip3 pip
+setenv PATH "/path-to-python-bin:$PATH"

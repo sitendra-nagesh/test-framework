@@ -1,0 +1,5 @@
+Steps to create virtual enviroment and installing requirment.txt
+python -m venv venv_dir
+source venv_dir/bin/activate.csh
+pip list 
+pip install -r merge-req.txt
