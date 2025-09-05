@@ -1,0 +1,6 @@
+use dir function provided by python
+example
+import pandas.testing as pdt
+methods = dir(pdt)
+print(methods)
+
